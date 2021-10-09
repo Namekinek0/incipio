@@ -6,10 +6,15 @@ Incipio is a CLI English dictionary written in Python. In Latin, incipio means "
   
 I'm a total beginner in programming, thus any comment or suggestion are welcomed.
 
+## How to use
+
+Simply run main.py on a Python interpreter 
+
 ## Future features
 
 * Add or improving commands like: exiting the app(pretty important, I know), comparing two lemmas, adding custom lemmas.
 * The current json which contains the dictionary must be improved, since it misses syllabications, part of speech and etymology. Moreover, it returns corrupted text sometimes.
+* Building an executable
 * Add more languages
 * Switching among different dictionaries
 * Using more updated dictionaries using API
