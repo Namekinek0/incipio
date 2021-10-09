@@ -1,7 +1,7 @@
 
 ## Incĭpĭo
 
-Incipio is a CLI English dictionary build in Python. In Latin, Incipio means "I begin, I undertake." I think I couldn't find a better title, since I'm an English student who's learning Python for pure fun and willing to learn new skills, and this project is my first enterprise. At the moment, Incipio is a bare-boned project: users can only input a word and check for its definition from the Webster's Unabridged Dictionary by Project Gutenberg from 2009.
+Incipio is a CLI English dictionary build in Python. In Latin, Incipio means "I begin, I undertake." I think I couldn't find a better name, since I'm an English student who's learning Python for pure fun and willing to learn new skills, and this project is my first enterprise. At the moment, Incipio is a bare-boned project: users can only input a word and check for its definition from the Webster's Unabridged Dictionary by Project Gutenberg from 2009.
 
 ## Future features
 
