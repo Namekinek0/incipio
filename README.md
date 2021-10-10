@@ -15,7 +15,7 @@ At the moment, simply clone the repository, open the whole folder in the editor,
 
 ### Other programs or python IDLE
 
-In theory it's the same as in VSC. But I've never used other editors, sorry.
+In theory it's the same as in VSC. But I've never used other editors, sorry. 👉👈
 
 ## Future features
 
