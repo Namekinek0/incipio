@@ -24,7 +24,7 @@ In theory it's the same as in VSC. But I've never used other editors, sorry. ðŸ‘
 * Building an executable
 * Adding more languages
 * Switching among different dictionaries
-* Using more updated dictionaries using API
+* Using updated dictionaries by API
 
 ## Acknowledgements
 
