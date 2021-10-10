@@ -2,13 +2,20 @@
 
 ## Incĭpĭo
 
-Incipio is a CLI English dictionary written in Python. In Latin, incipio means "I begin, I undertake." I think I couldn't find a better name, since I'm an English student who's learning Python for pure fun and willing to learn new skills, and this project is my first enterprise. At the moment, Incipio is a bare-boned project: users can only input a word and check for its definition from the Webster's Unabridged Dictionary released by Project Gutenberg in 2009.  
+Incipio is a CLI English dictionary written in Python. In Latin, incipio means "I begin, I undertake." I think I couldn't find a better name, since I'm an English graduate who's learning Python for pure fun and willing to learn new skills, and this project is my first enterprise. At the moment, Incipio is a bare-boned project: users can only input a word and check for its definition from the Webster's Unabridged Dictionary released by Project Gutenberg in 2009.  
   
 I'm a total beginner in programming, thus any comment or suggestion are welcomed.
 
 ## How to use
 
-Simply clone the repository and run main.py on a Python interpreter 
+### Using VSC
+
+Executable to be released ASAP.  
+At the moment, simply clone the repository, open the whole wolder in the editor, and run main.py.
+
+### Other programs or python IDLE
+
+In theory it's the same as in VSC. But I've never used other editors, sorry.
 
 ## Future features
 
