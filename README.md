@@ -11,7 +11,7 @@ I'm a total beginner in programming, thus any comment or suggestion are welcomed
 ### Using VSC
 
 Executable to be released ASAP.  
-At the moment, simply clone the repository, open the whole wolder in the editor, and run main.py.
+At the moment, simply clone the repository, open the whole folder in the editor, and run main.py.
 
 ### Other programs or python IDLE
 
