@@ -1,6 +1,6 @@
 ## ![Incipio's logo](https://camo.githubusercontent.com/85f336b99a9ef0a0aa5ed0631d8917aba2481ec6680f94b192ba7b50206e12ba/68747470733a2f2f692e706f7374696d672e63632f7a444648596a32562f696e636970696f2e706e67)
 
-## Incĭpĭo
+## Incĭpĭo (i'ntʃipjo)
 
 Incipio is a CLI English dictionary written in Python. In Latin, incipio means "I begin, I undertake." I think I couldn't find a better name, since I'm an English graduate who's learning Python for pure fun and willing to learn new skills, and this project is my first enterprise. At the moment, Incipio is a bare-boned project: users can only input a word and check for its definition from the Webster's Unabridged Dictionary released by Project Gutenberg in 2009.  
   
