@@ -19,7 +19,7 @@ In theory it's the same as in VSC. But I've never used other editors, sorry. ðŸ‘
 
 ## Future features
 
-* Adding or improving commands like: exiting the app(pretty important, I know), comparing two lemmas, adding custom lemmas.
+* Adding commands like: comparing two lemmas, adding custom lemmas.
 * The current json which contains the dictionary must be improved, since it misses syllabications, parts of speech and etymologies. Moreover, it returns corrupted text sometimes.
 * Building an executable
 * Adding more languages
