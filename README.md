@@ -12,11 +12,12 @@ I'm a total beginner in programming, thus any comment or suggestion are welcomed
 
 ### On Windows
 
-Windows doesn't have a python interpreter installed by default. After [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), you can go inside the local cloned folder, go to \dist\main\ folder and run main.exe.
+Windows doesn't have a python interpreter installed by default. After [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), you can go inside the local cloned folder, go to \dist\main\ folder and run main.exe. 
+EDITED: Git doesn't push the folder. Try to solve ASAP.
 
 ### On Linux
 
-Linux has a python interpreter by default. 
+Linux has a python interpreter by default. Just run main.py
 
 ## Future features
 
