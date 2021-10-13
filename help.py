@@ -1,4 +1,4 @@
-exit = "--exit, -x"
+exit = "--exit, -e"
 help = "--help, -h"
 ver = "--version, -v"
 def print_help():
