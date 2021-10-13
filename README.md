@@ -12,17 +12,16 @@ I'm a total beginner in programming, thus any comment or suggestion are welcomed
 
 ### On Windows
 
-Windows doesn't have a python interpreter installed by default. After [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), you can go inside the local cloned folder, go to \dist\main\ folder and run main.exe. 
-EDITED: Git doesn't push the folder. Try to solve ASAP.
+You can download the latest executable from the [releases page](https://github.com/Namekinek0/incipio/releases). Unpack the zip file and execute main.exe inside the Incipio folder.
 
 ### On Linux
 
-Linux has a python interpreter by default. Just run main.py
+[Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), run the main.py file using the pyton interpreter from your Linux distribution. Be sure your OS runs python3 interpreter.
 
 ## Future features
 
 * Adding commands like: comparing two lemmas, adding custom lemmas
-* The current json which contains the dictionary must be improved, since it misses syllabications, parts of speech and etymologies.     Moreover, it returns corrupted text sometimes
+* The current json which contains the dictionary must be improved, since it misses syllabications, parts of speech and etymologies. Moreover, it returns corrupted text sometimes
 * Adding more languages
 * Switching among different dictionaries
 * Using updated dictionaries by API
